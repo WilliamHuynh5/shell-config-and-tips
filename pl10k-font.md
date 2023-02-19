@@ -1,6 +1,7 @@
 ## Changing the font to `PowerLevel10k` 🖌️
 When you reopen WSL you might notice your terminal looks broken; something like this:
 ![Terminal](/assets/img-6.png "img-6")
+
 This is because we haven't loaded the PowerLevel10k fonts for use in WSL. 
 
 1. Right-click on the border of the WSL application to open the context menu.
