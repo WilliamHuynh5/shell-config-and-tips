@@ -72,11 +72,11 @@ chsh -s $(which zsh)
 ```
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
-2. Type the following command and press **Enter** to edit the `.zshrc` file to change the theme.
+2. Edit the `.zshrc` file to change the theme with:
 ```
 nano ~/.zshrc
 ```
-3. Change the `ZSH_THEME` to `"powerlevel10k/powerlevel10k"`.
+3. Change the `ZSH_THEME` to `"powerlevel10k/powerlevel10k"` like so:
 ```
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
