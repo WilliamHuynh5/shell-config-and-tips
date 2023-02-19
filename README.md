@@ -96,6 +96,7 @@ This is because we haven't loaded the PowerLevel10k fonts for use in WSL.
 2. Click on `Properties`
 3. Click on `Fonts`
 4. Select `MesloLGS NF` in the fonts menu
+
 ![Terminal](/assets/img-8.png "img-8")
 
 And voila! Your terminal should be spiced up! 🥳🥳🥳
