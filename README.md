@@ -5,7 +5,7 @@ Welcome to CSESoc Education's guide on Customising your Shell!
 Here you will learn how to customise your WSL shell using tools like `oh-my-zsh`.
 
 
-![Winver Example](/assets/img-11.png "img-11")
+![Winver Example](/assets/img-11a.png "img-11a")
 
 ## What is ZSH & Why use ZSH? 🤔
 ZSH is an extended version of Bash, providing the same functionality of Bash, but also with plenty of new features, and support for plugins and themes.
