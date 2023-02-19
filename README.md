@@ -31,18 +31,24 @@ Oh-my-zsh is an open-source and community driven framework for managing a ZSH co
 1. Open **WSL** *(usually called `Ubuntu on Windows`)*
 2. In the **WSL Terminal** type the following command and press **Enter**
 
-```sudo apt-get install zsh```
+```
+sudo apt-get install zsh
+```
 
 ![Winver Example](/assets/img-1.png "img-1")
 
 ## Installing oh-my-zsh
 1. Make sure you have `git` installed. In the **WSL Terminal** type the following command and press **Enter**
 
-`sudo apt-get install git`
+```
+sudo apt-get install git
+```
 
 2. Install `oh-my-zsh`. In the **WSL Terminal** type the following command and press **Enter**
 
-`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
 
 ![Winver Example](/assets/img-2.png "img-2")
 
@@ -50,6 +56,8 @@ Oh-my-zsh is an open-source and community driven framework for managing a ZSH co
 
 In the **WSL Terminal** type the following command and press **Enter**
 
-`chsh -s $(which zsh)`
+```
+chsh -s $(which zsh)
+```
 
-> You may be prompted to enter in your password. If the prompt appears, type your password and press **Enter**.
+> You may be prompted to enter in your password. If the prompt appears, **type your password** and press **Enter**.
