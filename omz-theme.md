@@ -17,4 +17,6 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 4. Close WSL and open it again.
 
+> There are **lots more themes** for you to browse [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)!
+
 ### ✅ Now it's time to change our WSL font to **PowerLevel10k**! 😎 To get started, click [here](pl10k-font.md)!
