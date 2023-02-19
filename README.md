@@ -23,7 +23,8 @@ Oh-my-zsh is an open-source and community driven framework for managing a ZSH co
 
 > If you are on Windows, make sure you have followed our WSL Setup Guide before continuing!
 
-1. Open **WSL** *(usually called `Ubuntu on Windows`)*
+1. Open the **Start** menu and select **WSL** *(usually called `Ubuntu on Windows`)*
+![Winver Example](/assets/img-14.png "img-14")
 2. In the **WSL Terminal** type the following command and press **Enter**
 
 ```
@@ -97,7 +98,7 @@ This is because we haven't loaded the PowerLevel10k fonts for use in WSL.
 4. Select `MesloLGS NF` in the fonts menu
 ![Terminal](/assets/img-8.png "img-8")
 
-And voila! Your terminal should be spiced up!
+And voila! Your terminal should be spiced up! 🥳🥳🥳
 ![Terminal](/assets/img-9.png "img-9")
 
 ![Terminal](/assets/img-10.png "img-10")
