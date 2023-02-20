@@ -5,4 +5,4 @@
 3. Open `MesloLGS NF regular.ttf` and select **Install**
 ![Winver Example](/assets/img-13.png "img-13")
 
-### ✅ Now it's time to install **PowerLevel10k fonts**! 😎 To get started, click [here](pl10k-install.md)!
+### ✅ Now it's time to change our WSL font to **PowerLevel10k**! 😎 To get started, click [here](pl10k-font.md)!
