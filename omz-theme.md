@@ -15,7 +15,14 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 > Note: Lines that start with `#` are comments and will be ignored by `zsh`.
 
-4. Close WSL and open it again.
+4. Save the file with the following keys:
+```
+ctrl + x
+y
+Enter
+```
+
+5. Close WSL and open it again.
 
 > There are **lots more themes** for you to browse [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)!
 
