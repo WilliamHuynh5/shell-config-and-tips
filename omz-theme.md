@@ -15,7 +15,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 > Note: Lines that start with `#` are comments and will be ignored by `zsh`.
 
-4. Save the file with the following keys:
+4. Save the file by pressing the following keys:
 ```
 ctrl + x
 y
