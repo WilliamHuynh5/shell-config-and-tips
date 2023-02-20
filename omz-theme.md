@@ -16,10 +16,17 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 > Note: Lines that start with `#` are comments and will be ignored by `zsh`.
 
 4. Save the file by pressing the following keys:
+> This attempts to exit NANO
 ```
-ctrl + x  *(this attempts to exit NANO)*
-y *(selecting 'y' saves your file)*
-Enter *(pressing Enter confirms your choice and closes NANO)*
+ctrl + x 
+```
+> Selecting 'y' saves your file
+```
+y 
+```
+> Pressing Enter confirms your choice and closes NANO
+```
+Enter
 ```
 
 5. Close WSL and open it again.
