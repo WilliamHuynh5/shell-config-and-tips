@@ -17,9 +17,9 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 4. Save the file by pressing the following keys:
 ```
-ctrl + x
-y
-Enter
+ctrl + x  *(this attempts to exit NANO)*
+y *(selecting 'y' saves your file)*
+Enter *(pressing Enter confirms your choice and closes NANO)*
 ```
 
 5. Close WSL and open it again.
